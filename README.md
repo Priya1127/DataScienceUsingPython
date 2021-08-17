@@ -1,2 +1,2 @@
 # DataScienceUsingPython
-byte sized Data Science using python
+byte sized projects Data Science using python
